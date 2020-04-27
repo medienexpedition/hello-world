@@ -1,2 +1,2 @@
 # hello-world
-The infamous "Hello world" for Git
+Infamous "Hello world!" for Git
