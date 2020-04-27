@@ -1,2 +1,2 @@
 # hello-world
-Just a test repository
+The infamous "Hello world" for Git
